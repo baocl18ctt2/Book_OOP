@@ -1,0 +1,6 @@
+Author, dale_carry, 123, Dale Carnegie, 25
+Author, chi_xuyen, 123, Chi Xuyen, 38
+Author, nhat_anh, 123, Nguyen Nhat Anh, 19
+Author, nam_cao, 147, Nam Cao, 24
+Author, tuan78, 357, Nguyen Tuan, 32
+Author, namdo, 147, Do Nhat Nam, 25

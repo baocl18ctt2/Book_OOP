@@ -1,0 +1,21 @@
+09874YS35	Mat biec	387400	24
+03564YS45	Dac Nhan tam	135000	20
+-	Total money payment:	11997600	0.0
+09874YS35	Mat biec	387400	24
+03564YS45	Dac Nhan tam	135000	20
+06987YS17	Ban va toi	245998	29
+-	Total money payment:	19131542	0.0
+09874YS35	Mat biec	387400	10
+32789YS90	Tuy but Song Da	134500	17
+-	Total money payment:	6160500	0.0
+09874YS35	Mat biec	387400	10
+32789YS90	Tuy but Song Da	134500	17
+04987YS39	Tat den	39850	34
+03564YS45	Dac Nhan tam	135000	5
+14678YS12	Nang trong vuon	94500	26
+-	Total money payment:	10647400	0.0
+04987YS39	Tat den	39850	45
+-	Total money payment:	1793250	0.0
+32789YS90	Tuy but Song Da	134500	28
+09784YS14	Toi va ban	298750	29
+-	Total money payment:	12429750	0.0

@@ -1,0 +1,13 @@
+Admin, Cong Vinh, oi xem da banh.
+Admin, 25+, Di choi.
+Admin, 23-, Vo dich.
+Admin, all user, Khuyen mai lon
+Admin, Cong Vinh, om nay minh hoc bai.
+Admin, 23+, Ban co muon di choi khong?
+Admin, 30-, Di an banh mi cho vui.
+Admin, all user, Hom nay co khuyen mai dac biet.
+Author, Nguyen Huu Long, oi nay di uong cafe khong?
+Author, all user, Tuan sau to chuc sinh hoat chuyen de.
+Author, 22-, Sach dang cho chuong trinh dac biet.
+Publisher, all user, Thang nua co ra nhung dau sach moi.
+Nguyen Huu Long, Cong Vinh, Toi nay xem da banh.

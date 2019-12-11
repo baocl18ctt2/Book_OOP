@@ -1,0 +1,7 @@
+Publisher, quangteo, 456, NXB Tuoi tre, 29
+Publisher, nguyenhung, 789, NXB Van hoc, 17
+Publisher, sang_do1, 479924, NXB Bao chi, 27
+Publisher, toan14, 26987, NXB Khoa hoc xa hoi, 20
+Publisher, viBui, 2598, NXB Ngay nay, 24
+Publisher, minhchau1, 7414, NXB Van hoc, 20
+Publisher, dang_nam, 10365, NXB Van hoc, 28

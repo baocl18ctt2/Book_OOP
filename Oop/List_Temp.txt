@@ -1,0 +1,18 @@
+Cho toi xin mot ve di tuoi tho, 01456YS12, 125000, Nguyen Nhat Anh, NXB Khoa hoc xa hoi
+Tuy but Song Da, 32789YS90, 134500, Nguyen Tuan, NXB Ngay nay
+Hen ho nuoc My, 06984YS12, 369800, Do Nhat Nam, NXB Van hoc
+Co gai den tu hom qua, 14798YS16, 399870, Nguyen Nhat Anh, NXB Tuoi tre
+Mat biec, 09874YS35, 387400, Nguyen Nhat Anh, NXB In an
+Lao Hac, 09874YS17, 269870, Nam Cao, NXB Tuoi tre
+Toi la Beto, 05987YS19, 269980, Nguyen Nhat Anh, NXB Ngay nay
+Vang bong mot thoi, 09874YS95, 369870, Nguyen Tuan, NXB Bao chi
+Bac Ky tai sang lang van chuong, 09874YS25, 269800, Nguyen Tuan, NXB Tuoi tre
+Tac pham va loi binh, 06987YS20, 785400, Nguyen Tuan, NXB Khoa hoc xa hoi
+Truyen Kieu, 01564YS99, 49320, Nguyen Tuan, NXB Van hoc
+Ngay mai, 03457YS98, 132920, Thach Lam, NXB Tuoi tre
+Song mon, 09874YS29, 398740, Nam Cao, NXB Bao chi
+Mot chuyen di, 15467YS19, 34500, Nguyen Tuan, NXB Tuoi tre
+Chuc mot ngay tot lanh, 03987YS18, 298740, Nguyen Nhat Anh, NXB Ngay nay
+Chi Pheo, 19254YS32, 49500, Nam Cao, NXB Van hoc
+Cho toi bien mat mot ngay, 098742YS17, 206990, Tac gia viet, NXB Khoa hoc xa hoi
+Tet doan vien, 09874YS17, 265800, Nguyen Van Hung, NXB Tuoi tre

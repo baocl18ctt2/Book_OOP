@@ -1,0 +1,6 @@
+User, huu_tuan12, 2365, Nguyen Huu Tuan, 25
+User, huu_long1, 265, Nguyen Huu Long, 26.5
+User, cong_vinh, 159, Cong Vinh, 27
+User, viBui, 1567, Bui Van Vi, 18
+User, datnguyen, 2560, Nguyen Van Dat, 19
+User, khang1, 4785, Tran Quang Khang, 23
